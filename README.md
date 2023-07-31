@@ -52,7 +52,7 @@ pip install bilibili-download-icexmoon --upgrade
 
 其中元素的含义为：
 
-- homeDir，下载视频保存的根目录，下载好的视频会按照专辑作为子目录进行保存。
+- homeDir，下载视频保存的根目录，下载好的视频会按照专辑 id 作为子目录进行保存，默认为当前目录。
 - users，待下载的用户信息。
 - users.id，用户id
 - users.albums，用户专辑信息
