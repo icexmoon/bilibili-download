@@ -98,5 +98,6 @@ class Main():
         # subprocess.call(cmd, shell=True)
         print("begin downlod vedio [{}]".format(url))
         result = subprocess.run(["you-get", "-o", path, url], shell=True)
+        # os.system('you-get "{}" -o "{}"'.format(url, path))
         # print(result.stdout.decode("GBK"))
         time.sleep(5)
