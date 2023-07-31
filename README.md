@@ -13,13 +13,13 @@
 ## 安装
 
 ```bash
-pip install bilibili-download-icexmoon==0.0.1
+pip install bilibili-download-icexmoon
 ```
 
 ## 更新
 
 ```bash
-pip install bilibili-download-icexmoon==0.0.1 --upgrade
+pip install bilibili-download-icexmoon --upgrade
 ```
 
 ## 使用说明
