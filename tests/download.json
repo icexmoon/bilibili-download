@@ -1,0 +1,19 @@
+{
+    "homeDir": "D:/workspace/bilibili/tests/download",
+    "users": [
+        {
+            "id": "581567817",
+            "albums": [
+                {
+                    "id": "1036613",
+                    "redoTimes": 5
+                },
+                {
+                    "id": "764241",
+                    "redoTimes": 5
+                }
+            ]
+        }
+    ],
+    "apiRetryMax": 50
+}

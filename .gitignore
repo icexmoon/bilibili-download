@@ -6,3 +6,5 @@
 /src/bilibili_download_icexmoon.egg-info/*
 __pycache__/
 tmp/
+!/tests/test.py
+!/tests/download.json
