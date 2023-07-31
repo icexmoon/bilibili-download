@@ -1,0 +1,8 @@
+*.config
+*.log
+/tests/*
+/dist/*
+/build/*
+/src/bilibili_download_icexmoon.egg-info/*
+__pycache__/
+tmp/
